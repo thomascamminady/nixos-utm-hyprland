@@ -47,4 +47,4 @@ This repo auto-mounts UTM’s **Shared Directory** at:
 - VM Settings → **Sharing** → add a Shared Directory
 - Set **Directory Share Mode** to **VirtFS** (QEMU backend), or **VirtioFS** (Apple virtualization backend)
 
-UTM exposes the share under the fixed tag `share`, which this config mounts automatically. citeturn0search0turn0search8
+UTM exposes the share under the fixed tag `share`, which this config mounts automatically
